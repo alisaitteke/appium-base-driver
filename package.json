@@ -1,5 +1,5 @@
 {
-  "name": "appium-base-driver",
+  "name": "appium-base-driver-plus",
   "description": "Base driver class for Appium drivers",
   "keywords": [
     "appium"
